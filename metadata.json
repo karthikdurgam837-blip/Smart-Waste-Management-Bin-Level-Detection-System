@@ -1,0 +1,8 @@
+{
+  "name": "Smart Waste Management",
+  "description": "IoT-based system with interactive ultrasonic bin-level simulations, wiring schemas, code generator, and viva examiner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
